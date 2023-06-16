@@ -1,0 +1,18 @@
+[
+  {
+    "appid": "doutools.plugin.video-downloader",
+    "title": "第一个插件",
+    "description": "我测试开发的第一个插件",
+    "version": "5.0.3",
+    "filename": "n85sHxAtDjPzYxjTHHdRh3M2PThCBYKT.asar",
+    "icon": "bagua.png"
+  },
+  {
+    "appid": "doutools.plugin.recorder",
+    "title": "第二个插件",
+    "description": "我测试开发的第二个插件",
+    "version": "5.0.0",
+    "filename": "w7HmzyY7SSyE6N4W2NkDYdYPaJPCh6ME.asar",
+    "icon": "report.png"
+  }
+]
